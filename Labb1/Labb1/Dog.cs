@@ -24,7 +24,7 @@ namespace Labb1
         }
         public string Introduction()
         {
-            return String.Format("Dogs name is {0}, it's age is {1} and the breed is {2}",
+            return String.Format(": Dogs name is {0}, it's age is {1} and the breed is {2}",
                                  Name, Age, Breed);
 
         }

@@ -8,5 +8,6 @@ namespace Labb1
 {
     class StartMenu
     {
+
     }
 }
