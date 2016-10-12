@@ -1,0 +1,8 @@
+C:\Users\Fredrik\Desktop\YHSUST16\OOP\Labb1\Labb1\bin\Debug\Labb1.exe.config
+C:\Users\Fredrik\Desktop\YHSUST16\OOP\Labb1\Labb1\obj\Debug\Labb1.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\YHSUST16\OOP\OOPGit\Labb1\Labb1\bin\Debug\Labb1.exe.config
+C:\Users\Fredrik\Desktop\YHSUST16\OOP\OOPGit\Labb1\Labb1\bin\Debug\Labb1.exe
+C:\Users\Fredrik\Desktop\YHSUST16\OOP\OOPGit\Labb1\Labb1\bin\Debug\Labb1.pdb
+C:\Users\Fredrik\Desktop\YHSUST16\OOP\OOPGit\Labb1\Labb1\obj\Debug\Labb1.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\YHSUST16\OOP\OOPGit\Labb1\Labb1\obj\Debug\Labb1.exe
+C:\Users\Fredrik\Desktop\YHSUST16\OOP\OOPGit\Labb1\Labb1\obj\Debug\Labb1.pdb
