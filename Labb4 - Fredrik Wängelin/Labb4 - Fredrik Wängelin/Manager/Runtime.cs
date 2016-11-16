@@ -33,26 +33,24 @@ namespace Labb4___Fredrik_Wängelin.Manager
                         Console.WriteLine();
                         Console.WriteLine("*****************************************************************");
                         Console.Read();
-                        //manager.BookConcert();
                         break;
                     case ConsoleKey.D2:
                     case ConsoleKey.NumPad2:
-                        //manager.PrintFestivalInfoToConsole();
+                        // Begagnade MC
                         Console.WriteLine();
                         Console.WriteLine("*****************************************************************");
-                        //manager.BookFestivals();
                         break;
                     case ConsoleKey.D3:
                     case ConsoleKey.NumPad3:
-                        //manager.PrintMoviesInfoToConsole();
+                        // Nya bilar
                         Console.WriteLine();
                         Console.WriteLine("*****************************************************************");
-                        //manager.BookMovies();
+                        
                         break;
                     case ConsoleKey.D4:
                     case ConsoleKey.NumPad4:
                         Console.WriteLine("*****************************************************************");
-                        //manager.PrintBookingsToConsole();
+                        // Beggade bilar
                         Console.WriteLine("*****************************************************************");
                         break;
                     case ConsoleKey.D5:

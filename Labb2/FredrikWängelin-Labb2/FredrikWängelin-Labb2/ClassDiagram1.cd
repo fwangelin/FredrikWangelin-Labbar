@@ -18,63 +18,63 @@
     <Position X="9.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Ant.cs</FileName>
+      <FileName>Animals\Ant.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Bird" Collapsed="true">
     <Position X="6" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Bird.cs</FileName>
+      <FileName>Animal types\Bird.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Crow" Collapsed="true">
     <Position X="7.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Crow.cs</FileName>
+      <FileName>Animals\Crow.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Dog" Collapsed="true">
     <Position X="0.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Dog.cs</FileName>
+      <FileName>Animals\Dog.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Eagle" Collapsed="true">
     <Position X="5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Eagle.cs</FileName>
+      <FileName>Animals\Eagle.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Horse" Collapsed="true">
     <Position X="2.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Horse.cs</FileName>
+      <FileName>Animals\Horse.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Insect" Collapsed="true">
     <Position X="10.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Insect.cs</FileName>
+      <FileName>Animal types\Insect.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Lizard" Collapsed="true">
     <Position X="16.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Lizard.cs</FileName>
+      <FileName>Animals\Lizard.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Mammal" Collapsed="true">
     <Position X="1.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Mammal.cs</FileName>
+      <FileName>Animal types\Mammal.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Menu" Collapsed="true">
@@ -88,7 +88,7 @@
     <Position X="11.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Mosquito.cs</FileName>
+      <FileName>Animals\Mosquito.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Program" Collapsed="true">
@@ -102,7 +102,7 @@
     <Position X="15" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
-      <FileName>Reptile.cs</FileName>
+      <FileName>Animal types\Reptile.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FredrikWängelin_Labb2.Runtime" Collapsed="true">
@@ -116,7 +116,7 @@
     <Position X="14" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Snake.cs</FileName>
+      <FileName>Animals\Snake.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
